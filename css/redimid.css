@@ -1,0 +1,452 @@
+html,body,.full-height{
+    height: 100%;
+}.full-height{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}.alerta{
+    position: absolute;
+    width: 80%;
+    left: 0;
+    right: 0;
+    top: 20px;
+    margin: auto;
+}
+body{
+    background-attachment: fixed;
+        background: url(../img/Pink2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;  
+}
+
+#Ground{
+      background-attachment: fixed;
+        background: url(../img/Pink.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; 
+}
+
+
+#Op{
+  margin-top: -23px;
+}
+
+#Input{
+  background: white;
+  border-radius: 05px;
+  border:2px solid #8e24aa;
+  width: 80%;
+
+}
+
+#Input2{
+  background: white;
+  border-radius: 05px;
+  border:2px solid #f50057;
+  width: 80%;
+
+}
+
+#Input3{
+
+  width: 80%;
+
+}
+
+#Input66{
+
+  background: #594E9C;
+  border-radius: 05px;
+  border:2px solid #f50057;
+  width: 65%;
+
+}
+#Input4{
+
+
+}
+
+#Line{
+  border:1px solid red;
+
+}
+
+
+#D{
+  border: 0px solid ;
+  border-bottom: ;
+	background-color:;
+  box-shadow: 0 0 0px;
+  width: 100%;
+  height: 40px;
+}
+
+#modalcrear{
+  border: 1px solid white;
+  background-color: #7e57c2 ;
+}
+
+#modalayuda{
+  border: 1px solid white;
+  background-color: #7e57c2;
+}
+
+#modalinfo{
+  border: 1px solid white;
+  background-color: #7e57c2;
+}
+
+#modalcomentarios{
+  border: 1px solid white;
+  background-color: #7e57c2 ;
+  
+}
+
+#modalcafe{
+  border: 1px solid white;
+  background-color: #7e57c2 ;
+  
+}
+
+#VolverModal{
+  background-color: #7e57c2;
+}
+
+#CrearBtn{
+  background-color: #7e57c2;
+  border: 2px solid white;
+
+}
+
+#CrearBtnFirst{
+  background-color: #7e57c2;
+  border: 2px solid white;
+  border-radius: 50px;
+  width: 35%;
+
+}
+
+
+#CrearBtnI{
+  background-color: #7e57c2;
+  border: 1px solid white;
+
+}
+
+
+#search{
+  border: 1px solid white;
+  height: 30px;
+
+}
+
+
+#NELE{
+
+
+  width: 100%;
+  height: 35px;
+
+  display: flex;
+  justify-content: space-between;
+
+
+}
+
+#Nel{
+
+  margin-right: -290px;
+  width: 100%;
+  height: 35px;
+
+
+
+
+
+}
+
+#Nel2{
+
+  width: 30%;
+  height: 35px;
+
+
+  display: flex;
+  justify-content: flex-start;
+
+
+}
+
+
+#Men{
+  border: 1px solid #7e57c2;
+
+}
+
+
+#cont2{
+  text-align: center;
+  height: 10%;
+  width: 20%;
+  background: transparent;
+  border:1px solid #00ffc9;
+  color: #530909;
+  
+}
+
+#Sonia{
+  border: 1px solid white;
+  height: 25px;
+  width: 50%;
+
+
+}
+#Miss{
+
+  border: 1px solid white;
+  height: 25px;
+  width: 100%;
+
+  display: flex;
+  align-content: center;
+
+
+}
+
+#MissW{
+
+  border: 1px solid white;
+  height: 25px;
+  width: 55%;
+
+  display: flex;
+  align-content: center;
+
+
+}
+
+#MissB{
+
+  border: 1px solid white;
+  height: 25px;
+  width: 100%;
+  max-width: 100%;
+  display: flex;
+
+  align-content: center;
+  border: 1px solid white;
+
+}
+
+#Miss2{
+
+  border: 1px solid white;
+  height: 30px;
+  width: 50%;
+}
+
+#Circle{
+  border:1px solid #00e5ff;
+  box-shadow: 0 0 5px #18ffff;
+}
+
+#Card{
+  width: 60%;
+  height: 10px;
+}
+
+#Card2{
+  width: 50%;
+
+}
+
+#CardB{
+  width: 60%;
+  display: flex;
+  align-items: center;
+}
+
+.Line{
+    border: 1px solid red;
+}
+
+
+#Titulo{
+  border: 1px solid white;
+
+}
+
+#Dimo{
+  display: flex;
+  justify-content: space-around;
+}
+
+#textarea1{
+  border:1px solid white;
+  width: 100%;
+}
+
+#Titulo2{
+  border:1px solid white;
+  width: 70%;
+}
+
+#Project_ID{
+  border:1px solid white;
+  width: 100px;
+
+}
+
+#LineL{
+  width: 100%;
+}
+
+#IMagen{
+  border:1px solid white;
+  width: 50%;
+
+}
+
+#textareal{
+    border:1px solid white;
+}
+
+#cont2{
+  height: 30px;
+  background: transparent;
+  border:1px solid white;
+  color: #530909;
+}
+
+#Frases{
+  width: 47%;
+  margin-top: -20px;
+  margin-left: 12%;
+  background-color: transparent;
+  min-width: 10px;
+}
+
+#trans{
+  background-color: transparent;
+  border:1px solid #00ffff;
+  box-shadow: 0 0 10px  #02e9f0;
+}
+
+
+#translucent-form-overlay{
+  width: 20%;
+  margin-left: 65%;
+  margin-top: -420px;
+}
+
+#Omitir{
+  width: 80%;
+  height: 60px;
+  text-align: center;
+  border-radius: 05px;
+}
+
+#Omitir2{
+
+
+  text-align: center;
+  border-radius: 05px;
+}
+
+#Project_ID{
+  width: 30%;
+}
+
+#guardar{
+  width: 30%;
+}
+
+#Logo{
+
+
+    margin-left: -60px;
+}
+
+#Elliot{
+  width: 60%;
+  height: 60%;
+}
+
+#myTopnavI{
+  display: flex;
+  justify-content: space-around;
+  width: 55%;
+}
+
+#Log{
+  width: 70%;
+  border: 1px solid red;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Add a black background color to the top navigation */
+
+.topnav {
+    background-color: transparent;
+    overflow: hidden;
+    width: 50%;
+
+}
+
+
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+
+
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+
+
+/* Add an active class to highlight the current page */
+.active {
+    background-color: transparent;
+    color: white;
+}
+
+/* Hide the link that should open and close the topnav on small screens */
+.topnav .icon {
+    display: none;
+}
